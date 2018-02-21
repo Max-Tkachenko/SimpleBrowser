@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/settings_item"
+        android:title="Settings"
+        android:orderInCategory="1">
+    </item>
+
+    <item android:id="@+id/show_browser_item"
+        android:title="Rate us"
+        android:orderInCategory="2">
+    </item>
+
+    <item android:id="@+id/manual_item"
+        android:title="Manual"
+        android:orderInCategory="3">
+    </item>
+
+    <item android:id="@+id/support_item"
+        android:title="Support"
+        android:orderInCategory="4">
+    </item>
+
+    <item android:id="@+id/about_app_item"
+        android:title="About"
+        android:orderInCategory="5">
+    </item>
+</menu>

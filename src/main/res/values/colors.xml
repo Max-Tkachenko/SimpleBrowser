@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b6089</color>
+    <color name="colorAccent">#4684c9</color>
+    <color name="colorPressedTab">#a6a6a6</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGroupText">#434540</color>
+    <color name="colorTabTextUnselected">#8c8c8c</color>
+    <color name="colorDeleteRed">#9b3933</color>
+</resources>
